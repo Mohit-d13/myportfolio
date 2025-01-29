@@ -1,0 +1,99 @@
+section:not(:first-of-type){
+   text-align: center; 
+}
+
+/*navbar*/
+
+.navbar-nav{
+    align-items: center;
+}
+
+.navbar {
+    background-color: white;
+}
+.navbar-nav .nav-link {
+    color:rgba(0, 0, 0, 0.923);
+    font-size: 1.1rem;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(135, 236, 250, 0.819);
+}
+.bi {
+    width: 80px;
+}
+
+/* Hero section */
+
+section.hero {
+    background-color:rgb(135, 236, 250);
+    padding-top: 72px;
+}
+
+.hero button {
+    border: 2px solid black;
+    box-shadow: 4px 4px black;
+    border-radius: 25px;
+}
+@media screen and (min-width:992px) {
+    .bi {
+        width: 100px;
+    }
+    section.lastsection {
+        background-color: rgb(135, 236, 250);
+    }
+}
+
+@media screen and (max-width:992px) {
+    #about {
+        background-color: rgb(135, 236, 250);
+    }
+    #contact {
+        background-color: white;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    section.hero {
+        text-align: center;
+    }
+    section.hero img{
+        width: 70%
+    }
+}
+
+/* Projects */
+
+section.projects i {
+    font-size: 2rem;
+    margin: 1rem auto 0;
+    border: 2px solid black;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section .card {
+    border: 2px solid black;
+    box-shadow: 4px 4px black;
+    max-width: 22rem;
+    margin-inline: auto;
+}
+
+section .card a {
+    border: 2px solid black;
+    box-shadow: 4px 4px black;
+    border-radius: 20px;
+}
+/* about and contact */
+
+section.lastsection {
+    color: black;
+}
+
+#contact  .nav-link{
+    color: black;
+} 
