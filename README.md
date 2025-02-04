@@ -1,7 +1,7 @@
 **Portfolio Website Project - README.md**
 # Mohit Damle's Portfolio Website
 
-Welcome to my portfolio website repository! This project showcases my achievements, skills, experience, projects, and provides access to my resume, GitHub link, LinkedIn profile, and other social media profiles like Instagram and Facebook.
+Welcome to my portfolio website repository! This project showcases my achievements, skills, experience, projects, and provides access to my resume, GitHub link, LinkedIn profile, and other social media.
 
 ## Introduction
 
@@ -31,14 +31,12 @@ If you have any questions or want to get in touch, you can reach me via the foll
 - Email: your.email@example.com
 - GitHub: [GitHub Profile](https://github.com/your-username)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Instagram: [Instagram Profile](https://www.instagram.com/your-instagram-profile/)
-- Facebook: [Facebook Profile](https://www.facebook.com/your-facebook-profile/)
 
 ## Copyright
 © Mohit 2025
 
 All rights reserved. No part of this repository, including code, images, content, and design, may be reproduced, distributed, or transmitted in any form or by any means, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-The code, images, content, and design in this repository are the intellectual property of Kunal Bhatia. Any unauthorized use or reproduction is strictly prohibited and may result in legal action.
+The code, images, content, and design in this repository are the intellectual property of Mohit Damle. Any unauthorized use or reproduction is strictly prohibited and may result in legal action.
 If you wish to use any part of this repository for educational, non-commercial, or personal purposes, please seek permission by contacting [Your Email Address].
 By accessing and using this repository, you agree to comply with all applicable copyright laws and regulations.
 
